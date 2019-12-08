@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!ELEMENT respuestas (ejercicio*)>
+ <!ELEMENT ejercicio (respuesta*)>
+ <!ELEMENT respuesta (#PCDATA)>
+ <!ATTLIST ejercicio grupo CDATA #REQUIRED>
+ <!ATTLIST ejercicio nombre CDATA #REQUIRED>
+ <!ATTLIST ejercicio alumno CDATA #REQUIRED>
+ <!ATTLIST respuesta numero CDATA #REQUIRED>

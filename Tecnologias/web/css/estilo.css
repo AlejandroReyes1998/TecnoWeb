@@ -1,0 +1,44 @@
+body {
+    color: #fff;
+    background-color: #F5F5F5;
+    text-align: center;
+}
+/*Tamaño en total de columnas es de 12
+-Si no se especifica el tamaño del dispositivo mas grande hasta el chico, agarra por defecto el valor mas pequeño
+-Si no se especifica un valor pequeño toma el valor de 12 columnas, tamaño completo
+Tipos de columnas:
+col-xs- Extra small=Dispositivos moviles
+col-sm- Small= Dispositivos moviles, casi como tabletas
+col-md- Medium Tabletas
+col-lg- Large Computadoras 
+Funciones:
+col-xs-offset-* para desplazar cualquier columna hacia su derecha
+col-sm-offset-* para desplazar cualquier columna hacia su derecha
+col-md-offset-* para desplazar cualquier columna hacia su derecha
+col-lg-offset-* para desplazar cualquier columna hacia su derecha
+*/
+
+.formulario {
+    margin-top: 100px;
+}
+
+.formulario-top {
+    padding: 15px 25px 15px 25px;
+    background: rgba(0, 0, 128, 0.8);
+    -moz-border-radius: 10px 10px 0 0; 
+    -webkit-border-radius: 10px 10px 0 0; 
+    border-radius: 10px 10px 0 0;
+}
+
+.formulario-campos {
+    padding: 15px 25px 15px 25px;
+    color: #000;
+    background: rgba(0, 0, 128, .3);
+    -moz-border-radius: 0 0 10px 10px; 
+    -webkit-border-radius: 0 0 10px 10px; 
+    border-radius: 0 0 10px 10px;
+}
+
+.campos {
+    color: #000;
+}

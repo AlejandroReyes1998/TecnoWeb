@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT calificaciones (calificacion*)>
+    <!ELEMENT calificacion (#PCDATA)>
+    <!ATTLIST calificacion grupo CDATA #REQUIRED>
+    <!ATTLIST calificacion alumno CDATA #REQUIRED>
+    <!ATTLIST calificacion ejercicio CDATA #REQUIRED>

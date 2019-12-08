@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE usuarios SYSTEM "usuarios.dtd">
+
+<usuarios>
+  <usuario id="1" tipo="admin">
+    <nombre>admin1</nombre>
+    <password>admin1</password>
+  </usuario>
+  <usuario id="2" tipo="admin">
+    <nombre>admin2</nombre>
+    <password>admin2</password>
+  </usuario>
+  <usuario id="3" tipo="admin">
+    <nombre>admin3</nombre>
+    <password>admin3</password>
+  </usuario>
+</usuarios>

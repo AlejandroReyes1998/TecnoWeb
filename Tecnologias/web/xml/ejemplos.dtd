@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT ejemplos (ejemplo*)>
+    <!ELEMENT ejemplo (canvas)>
+    <!ELEMENT canvas (#PCDATA)>
+    <!ATTLIST ejemplo grupo CDATA #REQUIRED>
+    <!ATTLIST ejemplo ejercicio CDATA #REQUIRED>

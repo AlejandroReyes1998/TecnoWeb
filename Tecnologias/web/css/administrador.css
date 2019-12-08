@@ -1,0 +1,55 @@
+body {
+    color: #fff;
+    background-color: #F5F5F5;
+    text-align: center;
+}
+h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.welcome-top {
+    margin-top: 100px;
+    color: #000;
+}
+
+.menu {
+    background: rgba(178, 34, 34, .3);
+    -moz-border-radius: 10px 10px 10px 10px; 
+    -webkit-border-radius: 10px 10px 10px 10px; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.mybutton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-alta {
+    margin-top: 100px;
+}
+
+.form-alta-top {
+    padding: 15px 25px 15px 25px;
+    background: rgba(178, 34, 34, .8);
+    -moz-border-radius: 10px 10px 0 0; 
+    -webkit-border-radius: 10px 10px 0 0; 
+    border-radius: 10px 10px 0 0;
+}
+
+.form-alta-campos {       
+    color: #000;
+    padding: 15px 25px 15px 25px;
+    background: rgba(178, 34, 34, .3);
+    -moz-border-radius: 0 0 10px 10px; 
+    -webkit-border-radius: 0 0 10px 10px; 
+    border-radius: 0 0 10px 10px;
+}
+
+.tabla {
+    color: #000;
+}

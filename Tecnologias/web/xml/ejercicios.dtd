@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!ELEMENT ejercicios (ejercicio)*>
+  <!ELEMENT ejercicio (texto,nombre,pregunta*)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT texto (#PCDATA)>
+  <!ELEMENT pregunta (reactivo,opcion1,opcion2,opcion3)?>
+  <!ELEMENT reactivo (#PCDATA)>
+  <!ELEMENT opcion1 (#PCDATA)>
+  <!ELEMENT opcion2 (#PCDATA)>
+  <!ELEMENT opcion3 (#PCDATA)>
+  <!ATTLIST pregunta correcta CDATA #REQUIRED>
+  <!ATTLIST pregunta numero CDATA #REQUIRED>
+  <!ATTLIST ejercicio numejercicio CDATA #REQUIRED>
+  <!ATTLIST ejercicio grupo CDATA #REQUIRED>

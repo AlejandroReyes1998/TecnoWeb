@@ -1,0 +1,8 @@
+.menuCanvas {
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+    background: rgba(34, 139, 34, .3);
+    -moz-border-radius: 10px 10px 10px 10px; 
+    -webkit-border-radius: 10px 10px 10px 10px; 
+    border-radius: 10px 10px 10px 10px;
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT ejercicios (ejercicio*)>
+    <!ELEMENT ejercicio (canvas)>
+    <!ELEMENT canvas (#PCDATA)>
+    <!ATTLIST ejercicio grupo CDATA #REQUIRED>
+    <!ATTLIST ejercicio pregunta CDATA #REQUIRED>
+    <!ATTLIST ejercicio lectura CDATA #REQUIRED>

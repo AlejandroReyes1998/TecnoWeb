@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT soluciones (solucion*)>
+    <!ELEMENT solucion (canvas)>
+    <!ELEMENT canvas (#PCDATA)>
+    <!ATTLIST solucion grupo CDATA #REQUIRED>
+    <!ATTLIST solucion pregunta CDATA #REQUIRED>

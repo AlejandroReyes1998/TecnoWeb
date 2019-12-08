@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!ELEMENT lecturas (lectura)*>
+  <!ELEMENT lectura (nombre,texto)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT texto (#PCDATA)>
+  <!ATTLIST lectura grupo CDATA #REQUIRED>

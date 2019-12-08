@@ -1,0 +1,56 @@
+body {
+    color: #000;
+    background-color: #F5DEB3;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.top {
+    margin-top: 100px;
+    color: #000;
+}
+
+.menu {
+    background: rgba(34, 139, 34, .2);
+    -moz-border-radius: 10px 10px 10px 10px; 
+    -webkit-border-radius: 10px 10px 10px 10px; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.mybutton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-prof {
+    margin-top: 100px;
+}
+
+.form-prof-top {
+    padding: 15px 25px 15px 25px;
+    background: rgba(34, 139, 34, .7);
+    -moz-border-radius: 10px 10px 0 0; 
+    -webkit-border-radius: 10px 10px 0 0; 
+    border-radius: 10px 10px 0 0;
+}
+
+.form-prof-campos {       
+    color: #000;
+    padding: 15px 25px 15px 25px;
+    background: rgba(34, 139, 34, .2);
+    -moz-border-radius: 0 0 10px 10px; 
+    -webkit-border-radius: 0 0 10px 10px; 
+    border-radius: 0 0 10px 10px;
+}
+
+.tabla {
+    color: #000;
+}

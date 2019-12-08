@@ -1,0 +1,68 @@
+body {
+    color: #fff;
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+.titulo {
+    color: #00008B;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.top {
+    margin-top: 100px;
+    color: #000;
+}
+
+.mybutton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formulario {
+    margin-top: 100px;
+}
+
+.formulario-top {
+    padding: 15px 25px 15px 25px;
+    background: rgba(0, 0, 128, 0.8);
+    -moz-border-radius: 10px 10px 0 0; 
+    -webkit-border-radius: 10px 10px 0 0; 
+    border-radius: 10px 10px 0 0;
+}
+
+.formulario-campos {
+    padding: 15px 25px 15px 25px;
+    color: #000;
+    background: rgba(0, 0, 128, .2);
+    -moz-border-radius: 0 0 10px 10px; 
+    -webkit-border-radius: 0 0 10px 10px; 
+    border-radius: 0 0 10px 10px;
+}
+.menu {
+    background: rgba(0, 0, 128, .2);
+    -moz-border-radius: 10px 10px 10px 10px; 
+    -webkit-border-radius: 10px 10px 10px 10px; 
+    border-radius: 10px 10px 10px 10px;
+}
+.lectura {
+    padding: 30px 30px 30px 30px;
+    color: #000;
+    background: rgba(0, 0, 128, .1);
+    -moz-border-radius: 0 0 10px 10px; 
+    -webkit-border-radius: 0 0 10px 10px; 
+    border-radius: 0 0 10px 10px;
+}
+.tabla {
+    color: #000;
+}
