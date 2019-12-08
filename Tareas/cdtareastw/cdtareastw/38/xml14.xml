@@ -1,0 +1,10 @@
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema14.xsd">
+   <persona numero="1">
+      <nombre>Alejandro</nombre>
+      <edad>19</edad>
+   </persona>
+   <persona numero="2">
+      <nombre>Samuel</nombre>
+      <edad>23</edad>
+   </persona>
+</personas>

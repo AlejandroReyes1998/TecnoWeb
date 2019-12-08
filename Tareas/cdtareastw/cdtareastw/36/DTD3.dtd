@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deportistas [
+   <!ELEMENT deportistas (futbol | f1 | tenis)*>
+   <!ELEMENT futbol (#PCDATA)>
+   <!ELEMENT f1 (#PCDATA)>
+      <!ATTLIST f1 pais CDATA "España">
+      <!ATTLIST f1 fecha_de_nacimiento CDATA #IMPLIED>
+      <!ATTLIST f1 equipo CDATA #REQUIRED>
+   <!ELEMENT tenis (#PCDATA)>
+]>

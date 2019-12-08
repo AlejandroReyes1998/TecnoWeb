@@ -1,0 +1,11 @@
+<!--tipos simples-->
+<!--<nodoa>cadena123</nodoa>-->
+
+<!--tipos complejos-->
+<!--<raiz atributo="10"/>-->
+<!--<raiz atributo="10">cadena123</raiz>-->
+<!--<raiz><hijo></hijo></raiz>-->
+<!--<raiz atributo="10"><hijo></hijo></raiz>-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="raiz" type="xs:string"/>
+</xs:schema>

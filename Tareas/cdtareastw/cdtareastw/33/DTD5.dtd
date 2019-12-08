@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rootelement [
+<!ELEMENT rootelement (#PCDATA|childelement1|childelement2)*>
+<!ELEMENT childelement1 (#PCDATA)>
+<!ELEMENT childelement2 (#PCDATA)>
+]>

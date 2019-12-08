@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE amigos [
+	<!ELEMENT amigos (persona*)>
+	<!ELEMENT persona (Name,Email?)>
+	<!ATTLIST persona Pin ID #REQUIRED>
+	<!ATTLIST persona Friend IDREF #IMPLIED>
+	<!ATTLIST persona Likes IDREFS #IMPLIED>
+	<!ELEMENT Name (#PCDATA)>
+	<!ELEMENT Email (#PCDATA)>
+	]>

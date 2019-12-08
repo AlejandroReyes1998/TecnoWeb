@@ -1,0 +1,8 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="base">
+		<xs:restriction base="xs:integer">
+			<xs:maxExclusive value="10" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="raiz" type="base"/>
+</xs:schema>

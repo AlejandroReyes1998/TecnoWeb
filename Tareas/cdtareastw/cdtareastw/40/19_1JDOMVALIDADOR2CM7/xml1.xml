@@ -1,0 +1,6 @@
+<!DOCTYPE raiz
+[
+	<!ELEMENT raiz (#PCDATA)>]>
+<raiz>
+
+</raiz>

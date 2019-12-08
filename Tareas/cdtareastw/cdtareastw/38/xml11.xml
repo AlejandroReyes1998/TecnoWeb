@@ -1,0 +1,8 @@
+<persona nacimiento="1922-11-20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema11.xsd"   >
+    <datos>
+        <nombre>Ruben</nombre>
+        <apellidos>Peredo</apellidos>
+        <dni>888</dni>
+    </datos>
+    <comentario>buen profe</comentario>
+</persona>

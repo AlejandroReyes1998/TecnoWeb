@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deportistas SYSTEM "DTD3.dtd">
+<deportistas>
+   <f1 pais="Alemania" fecha_de_nacimiento="03/07/1987" equipo="Ferrari">Sebastian Vettel</f1>
+   <f1 equipo="McLaren">Fernando Alonso</f1>
+   <tenis>Rafael Nadal</tenis>
+</deportistas>

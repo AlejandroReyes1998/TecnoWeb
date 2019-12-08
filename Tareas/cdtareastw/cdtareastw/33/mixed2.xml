@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rootelement SYSTEM "DTD6.dtd">
+<rootelement>
+	<childelement1>Child element 1.</childelement1>
+	<childelement2>Child element 2.</childelement2>
+</rootelement>

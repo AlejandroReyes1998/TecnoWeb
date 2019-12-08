@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiquetas_html SYSTEM "DTD4.dtd">
+<amigos>
+    <persona Pin = "N1">
+      <Name>Someone</Name>
+    </persona>
+
+    <persona Pin = "N2" Friend = "N1">
+      <Name>Someone else</Name>
+    </persona>
+    
+    <persona Pin = "N3" Likes = "N2 N1">
+      <Name>Fan</Name>
+    </persona>
+</amigos>
+ 

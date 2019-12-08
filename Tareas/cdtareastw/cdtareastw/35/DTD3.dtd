@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiquetas_html [
+ 	<!ELEMENT title (#PCDATA)>
+ 	<!ATTLIST person id ID #REQUIRED>
+]>

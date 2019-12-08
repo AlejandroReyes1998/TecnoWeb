@@ -1,0 +1,22 @@
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema17.xsd">
+   <persona>
+      <nombre>Antonio Machado Ruiz</nombre>
+      <iniciales>AMR</iniciales>
+      <edad>22</edad>
+   </persona>
+   <persona>
+      <nombre>Mario Moreno</nombre>
+      <iniciales>MM</iniciales>
+      <edad>23</edad>
+   </persona>
+   <persona>
+      <iniciales>ALO</iniciales>
+      <nombre>Ada Lovelace</nombre>
+      <edad>24</edad>
+   </persona>
+   <persona>
+      <nombre>pablo ruiz picasso</nombre>
+      <iniciales>prp</iniciales>
+      <edad>24</edad>
+   </persona>
+</personas>

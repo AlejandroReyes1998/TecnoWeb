@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deportistas SYSTEM "DTD2.dtd">
+<deportistas>
+   <f1 pais="España">Carlos Sainz</f1>
+   <f1>Fernando Alonso</f1>
+   <tenis>Rafael Nadal</tenis>
+</deportistas>

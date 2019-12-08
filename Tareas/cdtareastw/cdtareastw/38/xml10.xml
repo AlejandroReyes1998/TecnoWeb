@@ -1,0 +1,5 @@
+<vehiculos xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "esquema10.xsd"   >
+        <nombre>coche</nombre>
+        <nombre>moto</nombre>
+        <nombre>carro</nombre>
+</vehiculos>

@@ -1,0 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiquetas_html SYSTEM "DTD5.dtd">
+<etiquetas_html>
+  <person> <name>Joe</name>
+   <email>x@x.x</email></person>
+ <person> <name>Joe</name>
+   <email>x@x.x</email>
+   <email>x@y.x</email>
+ </person>
+</etiquetas_html>
+ 
